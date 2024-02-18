@@ -1,7 +1,7 @@
 # Resume-Analyzer
 Resume Analyzer
 
-Watch This Analyser in Action -> [Click Here](analyse-your-resume.streamlit.app)
+Watch This Analyser in Action -> [Click Here](https://analyse-your-resume.streamlit.app/)
 
 Resume Score Analyzer is a web application developed using Python and its Streamlit Framework
 
