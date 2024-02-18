@@ -2,7 +2,7 @@ import streamlit as st
 import nltk
 import spacy
 spacy.load('en_core_web_sm')
-
+nltk.download('stopwords')
 import base64, random
 import time, datetime
 from pyresparser import ResumeParser
